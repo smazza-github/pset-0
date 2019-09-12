@@ -32,13 +32,13 @@ public class ProblemSet0 {
          * Print APCS in block letters to the console.
          */
 
-         System.out.println("##     ######  ######## ########");
-         System.out.printline(  #  #####");
-         System.out.println(" #    #  #    # #        #");
-         System.out.Println("######## #####  #        ########");
-         System.out.prinltn("#####");
-         System.Out.println("#      # #       #               #");
-         system.out.println("#################");
+        System.out.println("    ##    ######  ######## ######## ");
+        System.out.println("   #  #   #     # #        #        ");
+        System.out.println("  #    #  #     # #        #        ");
+        System.out.Println(" ######## ######  #        ########  ");
+        System.out.prinltn("#       # #       #               #  ");
+        System.Out.println("#       # #       #               #  ");
+        system.out.println("#       # #       #######  ########   ");
 
         /*
          * Exercise 3.
