@@ -36,7 +36,7 @@ public class ProblemSet0 {
         System.out.println("   #  #   #     # #        #        ");
         System.out.println("  #    #  #     # #        #        ");
         System.out.Println(" ######## ######  #        ########  ");
-        System.out.prinltn("#       # #       #               #  ");
+        System.out.println("#       # #       #               #  ");
         System.Out.println("#       # #       #               #  ");
         system.out.println("#       # #       #######  ########   ");
 
@@ -58,7 +58,7 @@ public class ProblemSet0 {
         System.out.println(" +\"\"\"\"\"+" );
         System.out.println("(|  0 0  |)");
         System.out.println(" |   ^   |");
-        System.out.println(" |  '-'  |")
+        System.out.println(" |  '-'  |");
         System.out.println("  +-----+  ");
 
         /*
@@ -85,7 +85,7 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.println("Three.\tTwo.\tOne.\tGo!\n";
+        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
         /*
          * Exercise 8.
@@ -117,4 +117,4 @@ public class ProblemSet0 {
         System.out.println("+---+||");
         System.out.println("+---++---+||+---++---+");
         System.out.println("||+---+");
-}
+};
